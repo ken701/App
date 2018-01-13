@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
         if(c==x){
             Toast("正解！");
             c=S();
-            editText.setText("");;
+            editText.setText("");
         }
         else {
             Toast("不正解...");
